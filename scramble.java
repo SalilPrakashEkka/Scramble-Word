@@ -1,8 +1,8 @@
 
 /**
- * Write a description of class scribble here.
+ * Write a description of class scramble here.
  *
- * @author (your name)
+ * @author (Salil Prakash Ekka)
  * @version (a version number or a date)
  */
 import java.util.*;
